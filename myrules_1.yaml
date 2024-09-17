@@ -163,7 +163,7 @@ proxy-groups:
 - name: US
   type: select
   include-all: true
-    filter: "(?i)美|us|unitedstates|united states"
+  filter: "(?i)美|us|unitedstates|united states"
 - name: others
     type: select
     include-all: true
