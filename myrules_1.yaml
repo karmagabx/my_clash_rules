@@ -95,12 +95,12 @@ dns:
 proxy-groups:
 - name: Proxies
   type: select
-  proxies: [HK,JP,SG,TW,US,all,自动选择】
+  proxies: [HK,JP,SG,TW,US,all,自动选择]
  
  
 - name: YouTube
   type: select
-  proxies: 【Proxies,HK,JP,SG,TW,US]
+  proxies: [Proxies,HK,JP,SG,TW,US]
  
 - name: Netflix
   type: select
